@@ -1,8 +1,9 @@
 import React from 'react'
+import Aboutus from './About/page'
 
 const Home = () => {
   return (
-    <div>Home Page</div>
+    <div> <Aboutus /></div>
   )
 }
 
